@@ -1,0 +1,6 @@
+[package]
+name = "task_002_even_fibonacci_numbers"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
