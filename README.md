@@ -2,4 +2,4 @@
 
 It's a homework test project to discover rust-lang.
 
-Install rust and run `cargo run` in the project root folder.
+Install rust and run `cargo run` within a task folder.
