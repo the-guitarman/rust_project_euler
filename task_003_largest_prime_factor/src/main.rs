@@ -6,7 +6,8 @@ use termion::{clear};
 fn main() {
     println!("{}", clear::All);
 
-    let number = 600716379584; //9227
+    let number = 600851475143; //6857
+    //let number = 600716379584; //9227
     //let number = 13195; //29
 
     let result = find_largest_prime_factor_of(number);
