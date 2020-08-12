@@ -1,0 +1,7 @@
+[package]
+name = "task_003_largest_prime_factor"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
+termion = "1"
