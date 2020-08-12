@@ -1,0 +1,6 @@
+language: rust
+rust:
+  - stable
+  - 1.45.2
+script:
+  - cargo test
