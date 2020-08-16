@@ -7,3 +7,4 @@ script:
   - cd ../task_002_even_fibonacci_numbers && cargo test
   - cd ../task_003_largest_prime_factor && cargo test
   - cd ../task_004_largest_palindrome_product && cargo test
+  - cd ../task_005_largest_palindrome_product && cargo test

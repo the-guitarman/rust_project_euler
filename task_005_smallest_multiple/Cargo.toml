@@ -1,5 +1,5 @@
 [package]
-name = "task_004_largest_palindrome_product"
+name = "task_005_smallest_multiple"
 version = "0.1.0"
 authors = ["guitarman <guitarman78@freenet.de>"]
 
