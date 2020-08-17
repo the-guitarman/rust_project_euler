@@ -1,0 +1,8 @@
+[package]
+name = "task_007_10001st_prime"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
+termion = "1"
+unicode-segmentation = "0.1.2"
