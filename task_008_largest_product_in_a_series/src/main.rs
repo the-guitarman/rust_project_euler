@@ -19,10 +19,10 @@ fn main() {
 fn find_largest_product_in_a_series(s: &str, adjacent_digits: usize) -> u64 {
     let mut largest_product = 1;
 
-    for i in 0..(s.chars().count() - adjacent_digits) {
+    'start_for_ervery_single_digit: for i in 0..(s.chars().count() - adjacent_digits) {
         let slice = &s[i..(adjacent_digits + i)];
         if slice.contains("0") {
-            continue;
+            continue 'start_for_ervery_single_digit;
         }
 
         let product = product_in_a_series(slice);
