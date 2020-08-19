@@ -10,3 +10,4 @@ script:
   - cd ../task_005_smallest_multiple && cargo test
   - cd ../task_006_sum_square_difference && cargo test
   - cd ../task_007_10001st_prime && cargo test
+  - cd ../task_008_largest_product_in_a_series && cargo test
