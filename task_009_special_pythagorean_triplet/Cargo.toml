@@ -1,0 +1,8 @@
+[package]
+name = "task_009_special_pythagorean_triplet"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
+termion = "1"
+unicode-segmentation = "0.1.2"
