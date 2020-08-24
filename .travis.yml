@@ -12,3 +12,4 @@ script:
   - cd ../task_007_10001st_prime && cargo test
   - cd ../task_008_largest_product_in_a_series && cargo test
   - cd ../task_009_special_pythagorean_triplet && cargo test
+  - cd ../task_010_summation_of_primes && cargo test
