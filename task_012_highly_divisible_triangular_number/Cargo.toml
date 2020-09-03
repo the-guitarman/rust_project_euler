@@ -1,9 +1,8 @@
 [package]
-name = "task_011_largest_product_in_a_grid"
+name = "task_012_highly_divisible_triangular_number"
 version = "0.1.0"
 authors = ["guitarman <guitarman78@freenet.de>"]
 
 [dependencies]
 termion = "1"
 unicode-segmentation = "0.1.2"
-byteorder = "1.2.7"

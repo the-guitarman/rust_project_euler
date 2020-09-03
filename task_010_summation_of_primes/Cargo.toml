@@ -1,5 +1,5 @@
 [package]
-name = "task_xxx"
+name = "task_010_summation_of_primes"
 version = "0.1.0"
 authors = ["guitarman <guitarman78@freenet.de>"]
 
