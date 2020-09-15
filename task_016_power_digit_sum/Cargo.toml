@@ -1,0 +1,10 @@
+[package]
+name = "find_power_digit_sum"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
+termion = "1"
+unicode-segmentation = "0.1.2"
+num = "0.3.0"
+num-bigint = "0.3.0"
