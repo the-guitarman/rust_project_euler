@@ -20,3 +20,4 @@ script:
   - cd ../task_015_lattice_paths && cargo test
   - cd ../task_016_power_digit_sum && cargo test
   - cd ../task_017_number_letter_counts && cargo test
+  - cd ../task_018_maximum_triangle_path_sum_1 && cargo test
