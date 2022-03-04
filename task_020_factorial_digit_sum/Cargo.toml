@@ -1,0 +1,11 @@
+[package]
+name = "task_020_factorial_digit_sum"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
+termion = "1"
+unicode-segmentation = "0.1.2"
+rand = "0.7"
+num-bigint = { version = "0.3", features = ["rand"] }
+num-traits = "0.2"

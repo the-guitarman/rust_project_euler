@@ -21,4 +21,5 @@ script:
   - cd ../task_016_power_digit_sum && cargo test
   - cd ../task_017_number_letter_counts && cargo test
   - cd ../task_018_maximum_triangle_path_sum_1 && cargo test
-  - cd ../test_019_counting_sundays && cargo test
+  - cd ../task_019_counting_sundays && cargo test
+  - cd ../task_020_factorial_digit_sum && cargo test
