@@ -1,7 +1,7 @@
 language: rust
 rust:
   - stable
-  - 1.45.2
+  - 1.58.1
 script:
   - cd task_001_multiples_of_3_and_5_under_1000 && cargo test
   - cd ../task_002_even_fibonacci_numbers && cargo test
