@@ -1,8 +1,0 @@
-[package]
-name = "test_019_counting_sundays"
-version = "0.1.0"
-authors = ["guitarman <guitarman78@freenet.de>"]
-
-[dependencies]
-termion = "1"
-unicode-segmentation = "0.1.2"
